@@ -1,0 +1,5 @@
+com.job.controller.ControllerPages=org.springframework.stereotype.Component
+com.job.dao.impCongViecDAO=org.springframework.stereotype.Component
+com.job.model.ChiTietTuyenDung=javax.persistence.Entity,javax.persistence.Table
+com.job.model.CongViec=javax.persistence.Entity,javax.persistence.Table
+com.job.model.NhaTuyenDung=javax.persistence.Entity,javax.persistence.Table

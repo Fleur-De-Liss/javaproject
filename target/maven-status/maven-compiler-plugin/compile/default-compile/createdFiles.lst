@@ -1,0 +1,10 @@
+com\job\dao\CongViecDAO.class
+com\job\service\impCongViecService.class
+com\job\model\ChiTietTuyenDung.class
+META-INF\spring.components
+com\job\util\HibernateUtil.class
+com\job\model\CongViec.class
+com\job\service\CongViecService.class
+com\job\dao\impCongViecDAO.class
+com\job\model\NhaTuyenDung.class
+com\job\controller\ControllerPages.class
